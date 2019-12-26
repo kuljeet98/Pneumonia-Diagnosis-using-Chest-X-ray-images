@@ -6,3 +6,4 @@ Model used for the training purpose is made from scratch or ConvNet.<br>
 #### Shutil is used to transfer the iamges from one directory to other.<br>
 
 ![model accuracy and loss visualization](download.png)
+![confusion matrix](cm.png)
