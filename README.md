@@ -1,4 +1,4 @@
-## Diagnosis of pneumonia froming deep learning model from scratch. chest xray us
+## Diagnosis of pneumonia from chest xray images using deep learning model from scratch. 
 ##### Dataset link :
 https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 #### File explanation
