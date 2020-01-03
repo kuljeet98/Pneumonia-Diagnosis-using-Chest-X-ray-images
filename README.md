@@ -117,3 +117,4 @@ fig, ax = plot_confusion_matrix(conf_mat=CM ,  figsize=(5, 5))
 plt.show()
 ```
 ![confusion matrix](cm.png)
+### For Full code please refer the above notebooks !!!!
